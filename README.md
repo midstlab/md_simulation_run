@@ -1,4 +1,4 @@
-## Giving an MD simulation by using wrappers
+## One shot preparation of multiple MD simulation files by using wrappers
 #### Warning: This tutorial assumes that you did tutorials of VMD and NAMD, and you have an idea about Python programming language.
 1. Preparation of the system    
     1. AutoPSF process
