@@ -1,0 +1,5 @@
+#!/bin/bash
+echo config jobs started
+namd2 +p8 1pga_autopsf_wb_ionized_config.conf > 1pga_autopsf_wb_ionized_config.log
+echo job for 1pga_autopsf_wb_ionized_config.conf is finished
+ echo all jobs are finished
